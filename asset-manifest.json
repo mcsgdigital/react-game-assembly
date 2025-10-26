@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/,react-game-assembly/static/css/main.78632838.css",
+    "main.js": "/,react-game-assembly/static/js/main.ef666db0.js",
+    "index.html": "/,react-game-assembly/index.html",
+    "main.78632838.css.map": "/,react-game-assembly/static/css/main.78632838.css.map",
+    "main.ef666db0.js.map": "/,react-game-assembly/static/js/main.ef666db0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78632838.css",
+    "static/js/main.ef666db0.js"
+  ]
+}
